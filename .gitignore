@@ -1,0 +1,3 @@
+dataset/*.tar.gz
+dataset/SHREC2017
+dataset/Processed_SHREC2017

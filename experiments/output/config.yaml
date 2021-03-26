@@ -1,0 +1,47 @@
+batch_size: 8
+config: pointlstm.yaml
+dataloader: shrec_dataloader.SHRECLoader
+device: '0'
+eval_interval: 5
+framesize: 32
+ignore_weights: []
+log_interval: 50
+model: models.motion.Motion
+model_args:
+  knn:
+  - 16
+  - 24
+  - 48
+  - 12
+  num_classes: 28
+  offsets: false
+  pts_size: 128
+  topk: 16
+num_epoch: 200
+num_worker: 10
+optimizer_args:
+  base_lr: 0.0001
+  nesterov: false
+  optimizer: Adam
+  start_epoch: 0
+  step:
+  - 100
+  - 160
+  - 180
+  weight_decay: 0.005
+phase: test
+print_log: true
+pts_size: 128
+random_fix: true
+random_seed: 0
+save_interval: 5
+test_batch_size: 4
+test_loader_args:
+  framerate: 32
+  phase: test
+train_loader_args:
+  framerate: 32
+  phase: train
+valid_loader_args: {}
+weights: ./models/epoch200_model.pt
+work_dir: ./output/

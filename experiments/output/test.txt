@@ -1,0 +1,1 @@
+[ Fri Mar 26 13:31:43 2021 ] Epoch 200, Test, Evaluation: prec1 93.2143, prec5 99.6429

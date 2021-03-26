@@ -1,0 +1,39 @@
+[ Fri Mar 26 11:24:53 2021 ] Resuming from checkpoint: epoch 200
+[ Fri Mar 26 11:24:53 2021 ] Model:   models.motion.Motion.
+[ Fri Mar 26 11:24:53 2021 ] Weights: ./models/epoch200_model.pt.
+[ Fri Mar 26 11:36:04 2021 ] Resuming from checkpoint: epoch 200
+[ Fri Mar 26 11:36:04 2021 ] Model:   models.motion.Motion.
+[ Fri Mar 26 11:36:04 2021 ] Weights: ./models/epoch200_model.pt.
+[ Fri Mar 26 11:43:51 2021 ] Resuming from checkpoint: epoch 200
+[ Fri Mar 26 11:43:51 2021 ] Model:   models.motion.Motion.
+[ Fri Mar 26 11:43:51 2021 ] Weights: ./models/epoch200_model.pt.
+[ Fri Mar 26 11:57:13 2021 ] Resuming from checkpoint: epoch 200
+[ Fri Mar 26 11:57:13 2021 ] Model:   models.motion.Motion.
+[ Fri Mar 26 11:57:13 2021 ] Weights: ./models/epoch200_model.pt.
+[ Fri Mar 26 11:57:47 2021 ] Resuming from checkpoint: epoch 200
+[ Fri Mar 26 11:57:47 2021 ] Model:   models.motion.Motion.
+[ Fri Mar 26 11:57:47 2021 ] Weights: ./models/epoch200_model.pt.
+[ Fri Mar 26 11:57:56 2021 ] Resuming from checkpoint: epoch 200
+[ Fri Mar 26 11:57:56 2021 ] Model:   models.motion.Motion.
+[ Fri Mar 26 11:57:56 2021 ] Weights: ./models/epoch200_model.pt.
+[ Fri Mar 26 13:09:30 2021 ] Resuming from checkpoint: epoch 200
+[ Fri Mar 26 13:09:30 2021 ] Model:   models.motion.Motion.
+[ Fri Mar 26 13:09:30 2021 ] Weights: ./models/epoch200_model.pt.
+[ Fri Mar 26 13:11:02 2021 ] Resuming from checkpoint: epoch 200
+[ Fri Mar 26 13:11:02 2021 ] Model:   models.motion.Motion.
+[ Fri Mar 26 13:11:02 2021 ] Weights: ./models/epoch200_model.pt.
+[ Fri Mar 26 13:12:10 2021 ] Resuming from checkpoint: epoch 200
+[ Fri Mar 26 13:12:10 2021 ] Model:   models.motion.Motion.
+[ Fri Mar 26 13:12:10 2021 ] Weights: ./models/epoch200_model.pt.
+[ Fri Mar 26 13:29:58 2021 ] Resuming from checkpoint: epoch 200
+[ Fri Mar 26 13:29:58 2021 ] Model:   models.motion.Motion.
+[ Fri Mar 26 13:29:58 2021 ] Weights: ./models/epoch200_model.pt.
+[ Fri Mar 26 13:30:25 2021 ] Resuming from checkpoint: epoch 200
+[ Fri Mar 26 13:30:25 2021 ] Model:   models.motion.Motion.
+[ Fri Mar 26 13:30:25 2021 ] Weights: ./models/epoch200_model.pt.
+[ Fri Mar 26 13:30:48 2021 ] Resuming from checkpoint: epoch 200
+[ Fri Mar 26 13:30:48 2021 ] Model:   models.motion.Motion.
+[ Fri Mar 26 13:30:48 2021 ] Weights: ./models/epoch200_model.pt.
+[ Fri Mar 26 13:31:42 2021 ] mean loss: 0.29255317737477615
+[ Fri Mar 26 13:31:43 2021 ] Evaluation Done.
+

@@ -8,6 +8,7 @@ import torch
 import random
 import numpy as np
 import torch.nn as nn
+import gc
 
 sys.path.append("../..")
 from utils import get_parser, import_class, GpuDataParallel, Optimizer, Recorder, Stat, RandomState
@@ -208,6 +209,11 @@ class Processor():
 
 
 if __name__ == '__main__':
+    # clear cache
+    torch.cuda.empty_cache()
+    # del variables
+    # gc.collect()
+
     sparser = get_parser()
     p = sparser.parse_args()
     if p.config is not None:
